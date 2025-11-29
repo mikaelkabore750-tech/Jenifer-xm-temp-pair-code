@@ -1,10 +1,9 @@
 # **Jenifer Bot Session Generator**
 
-ce code a été modifié et améliorer par mikael-dev 🌹🫠
 
 ---
 
-### Rejoint Notre communauté de devs et mods 🥵
+### 🦠
 <a href="https://whatsapp.com/channel/0029Vb6s5JpDzgT69NCS7i1a/?aff=1068419752923508776">
     <img src="https://img.shields.io/badge/join-28a745?style=for-the-badge" alt="Rejoins nous"/>
   </a>
